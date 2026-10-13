@@ -33,4 +33,3 @@ def sifre_olustur():
 
 if __name__ == '__main__':
     sifre_olustur()
-
